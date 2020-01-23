@@ -1,0 +1,9 @@
+server:
+  port: 8072
+spring:
+  application:
+    name: wb-es-project
+
+elasticsearch:
+  host: localhost
+  port: 9300
